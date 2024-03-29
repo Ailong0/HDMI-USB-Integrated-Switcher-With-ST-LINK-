@@ -1,0 +1,41 @@
+Added Component: Designator=H1(M3x4+6_N)
+Added Component: Designator=H2(M3x4+6_N)
+Added Component: Designator=H3(M3x4+6_N)
+Added Component: Designator=H4(M3x4+6_N)
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Add Pin To Net: Unknown Pin: Pin USB1-1
+Add Pin To Net: Unknown Pin: Pin USB1-2
+Add Pin To Net: Unknown Pin: Pin USB1-3
+Add Pin To Net: Unknown Pin: Pin USB1-4
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Added Member To Class: ClassName=docking_station_with_STLink Member=Component H1 ¹Ì¶¨¿×
+Added Member To Class: ClassName=docking_station_with_STLink Member=Component H2 ¹Ì¶¨¿×
+Added Member To Class: ClassName=docking_station_with_STLink Member=Component H3 ¹Ì¶¨¿×
+Added Member To Class: ClassName=docking_station_with_STLink Member=Component H4 ¹Ì¶¨¿×

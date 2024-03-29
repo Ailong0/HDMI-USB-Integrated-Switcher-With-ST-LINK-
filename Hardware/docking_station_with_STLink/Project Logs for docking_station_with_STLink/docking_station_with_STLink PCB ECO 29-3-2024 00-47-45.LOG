@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=Y1-2
+Removed Member From Class: ClassName=docking_station_with_STLink Member=Y1
+Added Component: Designator=C12(0603C)
+Added Component: Designator=C13(0603C)
+Added Component: Designator=X2(OSC HC-49SMD)
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Add Pin To Net: Unknown Pin: Pin USB1-1
+Add Pin To Net: Unknown Pin: Pin USB1-2
+Add Pin To Net: Unknown Pin: Pin USB1-3
+Add Pin To Net: Unknown Pin: Pin USB1-4
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U2-5
+Added Pin To Net: NetName=NetC12_1 Pin=X2-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U2-6
+Added Pin To Net: NetName=NetC13_1 Pin=X2-2
+Added Net: Name=NetC13_1
+Added Member To Class: ClassName=docking_station_with_STLink Member=Component C12 20PF
+Added Member To Class: ClassName=docking_station_with_STLink Member=Component C13 20PF
+Added Member To Class: ClassName=docking_station_with_STLink Member=Component X2 8MHZ
