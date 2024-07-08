@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Ailong\AilongProject\HDMI-USB-Integrated-Switcher-With-ST-LINK-\Hardware\docking_station_with_STLink\docking_station_with_STLink.PcbDoc
-Date     : 29/3/2024
-Time     : 02:57:00
+Date     : 7/4/2024
+Time     : 01:50:57
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -59,9 +59,9 @@ Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (3.937mil < 10mil) Between Text "D2" (658.333mil,245mil) on Top Overlay And Track (653.334mil,288mil)(653.334mil,330mil) on Top Overlay Silk Text to Silk Clearance [3.937mil]
    Violation between Silk To Silk Clearance Constraint: (3.01mil < 10mil) Between Text "D2" (658.333mil,245mil) on Top Overlay And Track (653.334mil,288mil)(713.334mil,288mil) on Top Overlay Silk Text to Silk Clearance [3.01mil]
    Violation between Silk To Silk Clearance Constraint: (6.418mil < 10mil) Between Text "D2" (658.333mil,245mil) on Top Overlay And Track (713.334mil,288mil)(713.334mil,330mil) on Top Overlay Silk Text to Silk Clearance [6.418mil]
-   Violation between Silk To Silk Clearance Constraint: (3.938mil < 10mil) Between Text "D3" (796.667mil,245mil) on Top Overlay And Track (791.666mil,288mil)(791.666mil,333mil) on Top Overlay Silk Text to Silk Clearance [3.938mil]
+   Violation between Silk To Silk Clearance Constraint: (3.938mil < 10mil) Between Text "D3" (796.667mil,245mil) on Top Overlay And Track (791.666mil,288mil)(791.666mil,330mil) on Top Overlay Silk Text to Silk Clearance [3.938mil]
    Violation between Silk To Silk Clearance Constraint: (3.01mil < 10mil) Between Text "D3" (796.667mil,245mil) on Top Overlay And Track (791.666mil,288mil)(851.666mil,288mil) on Top Overlay Silk Text to Silk Clearance [3.01mil]
-   Violation between Silk To Silk Clearance Constraint: (6.418mil < 10mil) Between Text "D3" (796.667mil,245mil) on Top Overlay And Track (851.666mil,288mil)(851.666mil,333mil) on Top Overlay Silk Text to Silk Clearance [6.417mil]
+   Violation between Silk To Silk Clearance Constraint: (6.418mil < 10mil) Between Text "D3" (796.667mil,245mil) on Top Overlay And Track (851.666mil,288mil)(851.666mil,330mil) on Top Overlay Silk Text to Silk Clearance [6.417mil]
    Violation between Silk To Silk Clearance Constraint: (3.938mil < 10mil) Between Text "D4" (935mil,245mil) on Top Overlay And Track (930mil,288mil)(930mil,330mil) on Top Overlay Silk Text to Silk Clearance [3.937mil]
    Violation between Silk To Silk Clearance Constraint: (3.01mil < 10mil) Between Text "D4" (935mil,245mil) on Top Overlay And Track (930mil,288mil)(990mil,288mil) on Top Overlay Silk Text to Silk Clearance [3.01mil]
    Violation between Silk To Silk Clearance Constraint: (6.418mil < 10mil) Between Text "D4" (935mil,245mil) on Top Overlay And Track (990mil,288mil)(990mil,330mil) on Top Overlay Silk Text to Silk Clearance [6.418mil]
@@ -128,4 +128,4 @@ Rule Violations :0
 
 Violations Detected : 80
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

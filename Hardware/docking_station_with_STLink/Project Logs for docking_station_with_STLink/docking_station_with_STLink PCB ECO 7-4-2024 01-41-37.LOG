@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetD3_2 Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R8-2
+Added Component: Designator=J1(JLINK)
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=TRST Pin=J1-3
+Added Pin To Net: NetName=JTDI Pin=J1-5
+Added Pin To Net: NetName=JTMS Pin=J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Added Pin To Net: NetName=JTCK Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=JTDO Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=nRST Pin=J1-15
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetD3_2 Pin=R8-2
+Add Pin To Net: Unknown Pin: Pin USB1-1
+Add Pin To Net: Unknown Pin: Pin USB1-2
+Add Pin To Net: Unknown Pin: Pin USB1-3
+Add Pin To Net: Unknown Pin: Pin USB1-4
+Added Member To Class: ClassName=docking_station_with_STLink Member=Component J1 JTAG
