@@ -1,0 +1,190 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 12-APR-2024  10:00:18 PM
+! INFO-      
+! STATUS-   Converting Part: F:\project\UG_project\USB拓展坞\SWD.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      FreeCAD Model
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        Open CASCADE Shape Model
+! SUMMARY-  Date             2024-04-12T21:48:03
+! SUMMARY-  Author           Author
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      Open CASCADE STEP processor 7.6
+! SUMMARY-  Orig_System      FreeCAD
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:      4
+! SUMMARY-  advanced_face ..............................................:    456
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis1_placement ............................................:      8
+! SUMMARY-  axis2_placement_3d .........................................:    404
+! SUMMARY-  b_spline_curve_with_knots ..................................:    214
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:     14
+! SUMMARY-  b_spline_surface_with_knots ................................:     98
+! SUMMARY-  cartesian_point ............................................:   3887
+! SUMMARY-  circle .....................................................:     47
+! SUMMARY-  closed_shell ...............................................:      4
+! SUMMARY-  context_dependent_shape_representation .....................:      6
+! SUMMARY-  cylindrical_surface ........................................:     32
+! SUMMARY-  direction ..................................................:   1689
+! SUMMARY-  edge_curve .................................................:   1140
+! SUMMARY-  edge_loop ..................................................:    492
+! SUMMARY-  face_bound .................................................:    492
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      7
+! SUMMARY-  item_defined_transformation ................................:      6
+! SUMMARY-  length_unit_and_si_unit ....................................:      7
+! SUMMARY-  line .......................................................:    873
+! SUMMARY-  manifold_solid_brep ........................................:      4
+! SUMMARY-  next_assembly_usage_occurrence .............................:      6
+! SUMMARY-  oriented_edge ..............................................:   2280
+! SUMMARY-  plane ......................................................:    313
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      7
+! SUMMARY-  product ....................................................:      7
+! SUMMARY-  product_context ............................................:      7
+! SUMMARY-  product_definition .........................................:      7
+! SUMMARY-  product_definition_context .................................:      7
+! SUMMARY-  product_definition_formation ...............................:      7
+! SUMMARY-  product_definition_shape ...................................:     13
+! SUMMARY-  product_related_product_category ...........................:      7
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:      6
+! SUMMARY-  shape_representation .......................................:      3
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      7
+! SUMMARY-  surface_of_revolution ......................................:      8
+! SUMMARY-  toroidal_surface ...........................................:      5
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      7
+! SUMMARY-  vector .....................................................:    873
+! SUMMARY-  vertex_point ...............................................:    724
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          14179
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 12-APR-2024 10:00:18 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 12-APR-2024  10:00:18 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 334
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: F:\project\UG_project\USB拓展坞\COMPOUND019
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 12-APR-2024  10:00:18 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 253
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: F:\project\UG_project\USB拓展坞\COMPOUND018
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 12-APR-2024  10:00:18 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 172
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: F:\project\UG_project\USB拓展坞\COMPOUND017
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 12-APR-2024  10:00:18 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 91
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: F:\project\UG_project\USB拓展坞\COMPOUND016
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 12-APR-2024  10:00:19 PM
+! INFO-     Filing Part ..: F:\project\UG_project\USB拓展坞\COMPOUND020
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 12-APR-2024  10:00:19 PM
+! INFO-     Filing Part ..: F:\project\UG_project\USB拓展坞\IDC-TH_8P-P2.54-V-R2-C4-S2.54
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 12-APR-2024  10:00:19 PM
+! INFO-     Filing Part ..: F:\project\UG_project\USB拓展坞\SWD.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         4
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         4
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 12-APR-2024  10:00:19 PM
+! INFO-      
